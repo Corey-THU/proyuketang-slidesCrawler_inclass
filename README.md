@@ -28,6 +28,6 @@ python slides_crawler.py
 
 ## LISENCE
 
-本仓库的内容采用 [MIT](https://mit-license.org/) 许可协议。
+本仓库的内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。您可以自由使用、修改、分发和创作衍生作品，但只能用于非商业目的，署名原作者，并以相同的授权协议共享衍生作品。
 
 如果您认为文档的部分内容侵犯了您的合法权益，请联系项目维护者，我们会尽快删除相关内容。
